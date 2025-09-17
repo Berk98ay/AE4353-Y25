@@ -7,3 +7,6 @@ ex_1/data/
 
 # Ignore notebook checkpoints
 **/.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
