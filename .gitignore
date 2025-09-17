@@ -1,0 +1,9 @@
+# Ignore datasets
+ex_1/data/
+
+# Ignore Python cache
+**/__pycache__/
+*.pyc
+
+# Ignore notebook checkpoints
+**/.ipynb_checkpoints/
